@@ -43,8 +43,6 @@ Evaluated on the **untouched test dataset**:
 
 ## 💻 How to Run the Project Locally
 
-### Prerequisites
-* Python 3.8+ installed
 
 ### Step-by-Step Setup
 1. **Clone the repository:**
