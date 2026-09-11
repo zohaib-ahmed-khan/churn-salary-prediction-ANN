@@ -49,5 +49,6 @@ Evaluated on the **untouched test dataset**:
 ### Step-by-Step Setup
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/ANN-Customer-Salary-Prediction.git](https://github.com/YOUR_USERNAME/ANN-Customer-Salary-Prediction.git)
-   cd ANN-Customer-Salary-Prediction
+   git clone [https://github.com/zohaib-ahmed-khan/churn-salary-prediction-ANN.git)
+   cd churn-salary-prediction-ANN
+
